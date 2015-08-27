@@ -1,0 +1,323 @@
+#header{
+    background-color: #e5e5e5;
+}
+.nav a{
+    color:black;
+}
+.page-header {
+   border-bottom: 0px solid #eeeeee;
+   max-width: 100%;
+       float:left;
+       margin: 24px;
+}
+.logo{
+    float:left;
+}
+.container{
+     max-width: 1035px !important;
+     padding:0px;
+}
+#content.container{
+   
+     background-color: #e5e5e5;
+}
+
+#content.container h3{
+    font-weight: bold;
+    color:#ccaf0b;
+}
+#header{
+       max-width: 100% !important;
+       width:100%;
+       padding-left: 230px;
+}
+
+.menu{
+    background-color: #e8be74;  
+     padding-left: 230px;
+     padding-right: 210px;
+}
+
+.caret-up {
+    width: 0; 
+    height: 0; 
+    border-left: 4px solid rgba(0, 0, 0, 0);
+    border-right: 4px solid rgba(0, 0, 0, 0);
+    border-bottom: 4px solid;
+    
+    display: inline-block;
+    margin-left: 2px;
+    vertical-align: middle;
+}
+
+.active{
+    color:white !important;
+}
+
+.nav{
+    font-weight:  bold;
+}
+.navbar-nav>li>a {
+     padding-top: 10px; 
+     padding-bottom: 10px; 
+}
+.top-right{
+    float:right;
+    padding-top: 23px;
+    padding-right: 245px;
+    font-weight: bold;
+}
+.gsearch{
+    float:right;
+    width:52%;
+    padding-right: 187px;
+}
+table.gsc-search-box td{
+    vertical-align: auto !important;
+}
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
+.user_img{
+    margin:5px;
+    border-style: solid;
+    border-color: #a0a5aa;
+    border-width: 10px;
+    float:left;
+}
+hr{
+    border:1px solid #e5e5e5;
+    margin: 10px 0px;
+}
+
+#myCarousel_video .item .img-thumbnail{
+    width:18%; 
+    height:20%;   
+    border:5px solid #ccaf0b;
+    
+}
+#myCarousel_video .carousel-inner {
+    margin-left: 40px;
+}
+.carousel-control{
+    width:2%;
+}
+.glyphicon-play-circle{   
+    font-size:52px;
+    top:49px;   
+    position:absolute;
+    z-index:1;
+    color:#a0a5aa;
+}
+.panel-heading{
+    padding-left: 25px;
+   background-color: #faebcc;
+   font-weight: bold;
+   
+}
+.front{
+    background-color: #ccaf0b;width:15px;height:41px;float:left;
+}
+.before_news_vr{
+    float:left;
+    background-color: #e5e5e5;
+    width:2px;
+    height:790px;
+    margin: 0px 4px;
+   
+}
+.exi{
+    width:100%;
+}
+.news{
+    width:100%;
+}
+.exi .img-thumbnail{
+    margin-top:10px;
+      margin-left:10px;
+        margin-right:10px;
+        width:118px;
+        height:139px;
+}
+.exi a{
+    padding-left: 14px;   
+}
+.glyphicon-circle-arrow-left, .glyphicon-circle-arrow-right{
+    font-size: 22px;
+    margin-right: 5px;
+}
+.news_logo{
+    margin-top:25px;
+}
+.news_logo .img-thumbnail{
+    border:3px solid #ccaf0b;
+}
+.facebook_vr{
+     float:left;
+    background-color: #e5e5e5;
+    width:2px;
+    height:360px;
+    margin: 4px 14px;
+}
+.twitt{
+    width:33%;
+}
+.fb{
+    width:60%;
+}
+.weather{
+    margin:20px 0px;
+}
+#myCarousel_post .item .img{
+    
+    margin:12px;
+    
+}
+
+#footer{
+   background-color: #F5DA81;
+   width:100%;
+   position:absolute;
+   height:auto;
+}
+.footer_format{
+    margin-bottom: 5px;   
+    margin-top: 5px;   
+}
+.footer_format_link{
+    margin-bottom: 5px;
+    margin-left: -86px;
+    margin-right: 5px;
+    margin-top: 5px;   
+}
+.glyphicon-forward{
+ margin-right: 5px;   
+}
+.last_line{
+    margin: 5px 222px;
+   
+}
+.footer_line{
+     background-color: #e8be74;
+     width:100%;
+     position: absolute;
+     height:auto;
+     padding-top:2px;
+}
+.footer_logo{
+    margin-top:30px;
+}
+.img_slider img{
+    width:630px;
+    
+}
+.wp-post-image{
+    width:133px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+    padding: 4px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+.carousel-inner.partner{
+    
+    padding:0px 40px;
+    height:145px;
+}
+.exi_div
+{
+    margin-left: 33px;
+    color: blue;
+}
+.weather_img{
+    background-image: url('../images/weather-forecast-screenshot.jpg');
+   height:170px;
+   padding-top: 10px;
+}
+.dropdown-submenu{
+    position:relative;    
+}
+.dropdown-submenu>.dropdown-menu{
+    top:0;
+    left:100%;
+    margin-top:-6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu>a:after{
+    display:block;
+    content:" ";
+    float:right;
+    width:0;
+    height:0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after{
+    border-left-color: #fff;
+}
+.dropdown-submenu.pull-left{
+    float:none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu{
+    left:-100%;
+    margin-left:10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+.dropdown-menu {
+    margin: 0px auto;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+.dropdown-menu .dropdown-menu {
+    left: 100%;
+    top: 0px;
+}
+/*  shows the dropdown on hover*/
+.navbar ul.nav li:hover > ul.dropdown-menu {
+    display: block;   
+}
+/* before and after */
+.navbar .nav > li > .dropdown-menu::before, .navbar .nav > li > .dropdown-menu::after {
+    display: none;
+}
+
+#TB_window {
+    position:absolute !important;
+}
+.fb-like span{
+    width:200px !important;
+}
+.uiGrid _51mz pluginConnectButtonLayoutRoot _3c9t{
+    width:250px;
+}
+#content1 #myCarousel{
+    height:auto;
+}
+.fb-like-box span, .fb-like-box iframe {
+    width: 220px !important;
+}
+.fb-comments, .fb-comments iframe[style], .fb-like-box, .fb-like-box iframe[style] {width:  100% !important;display:block;z-index:2000;position:relative}
+.fb-comments span, .fb-comments iframe span[style], .fb-like-box span, .fb-like-box iframe  span[style] {width: 100% !important;display:block;z-index:2000;position:relative}
+
